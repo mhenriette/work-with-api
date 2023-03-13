@@ -14,7 +14,8 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ cd ../api
+$ git clone https://github.com/mhenriette/work-with-api.git
+$ cd work-with-api/
 $ npm install
 $ npm start
 ```
